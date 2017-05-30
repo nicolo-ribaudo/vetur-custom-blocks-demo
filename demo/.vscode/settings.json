@@ -1,0 +1,6 @@
+{
+    "vetur-custom-blocks.blocks": {
+        "docs": "text.html.markdown",
+        "metadata": "source.json"
+    }
+}
